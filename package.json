@@ -96,7 +96,7 @@
   },
   "dependencies": {
     "@types/nprogress": "^0.2.0",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "element-ui": "2.13.0",
     "nprogress": "0.2.0",
     "single-spa": "^5.3.3",
